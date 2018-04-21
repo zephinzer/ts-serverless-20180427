@@ -1,0 +1,20 @@
+{
+  "name": "ts-serverless-20180427",
+  "version": "1.0.0",
+  "description": "This repository contains visual aids and example scripts/manifests for a technical sharing done on serverless architectures, first presented on the 27th of April 2018 for the Agile Consulting & Engineering monthly technical sharing.",
+  "main": "index.js",
+  "scripts": {
+    "get-started": "node ./scripts/get-started.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephinzer/ts-serverless-20180427.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zephinzer/ts-serverless-20180427/issues"
+  },
+  "homepage": "https://github.com/zephinzer/ts-serverless-20180427#readme"
+}

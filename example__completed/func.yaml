@@ -1,0 +1,5 @@
+name: example-completed
+version: 0.0.3
+runtime: node
+entrypoint: node func.js
+format: json
